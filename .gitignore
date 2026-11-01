@@ -1,0 +1,16 @@
+
+# Local database
+database.db
+
+# Uploaded resumes and documents
+uploads/
+
+# macOS files
+.DS_Store
+**/.DS_Store
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+.env
